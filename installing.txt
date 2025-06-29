@@ -25,4 +25,4 @@ You can manually install the package as well if this doesn't work.
 
 DetectivePi made with 💖 by Lorenzo Farrance.
 😺 OG Github repo at: detectivesheepy/detectivepi
-🫵 Package repo at: detectivesheepy/detectivepi-batsrc
+🫵 Batch code at: detectivesheepy/detectivepi/WindowsPackage.bat
